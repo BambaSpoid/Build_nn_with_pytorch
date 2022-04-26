@@ -7,7 +7,7 @@ In this toy project, we aim to build a deep learning clssifier that predicts whe
 
   Cat            |  Dog
 :--------------:|:--------:
-![](images/cat.0.jpg)  |  ![](images/dog.0.jpg)
+![](figures/cat.0.jpg)  |  ![](figures/dog.0.jpg)
 
 
 
@@ -55,10 +55,10 @@ $ python3 main.py --model cnn --10
 # Results Presentation
 
 ``` Resnet result```  </br>
-![caption](images/train_res.png) 
+![caption](figures/train_res.png) 
 
 ``` CNN result```  </br>
-![caption](images/train_res.png) 
+![caption](figures/train_res.png) 
 
 # Make prediction #
 
@@ -67,7 +67,7 @@ $python3 predict.py --image_path "./data/Images/cat.0.jpg"
 ```
 
 ``` Example: Result```  </br>
-![caption](images/cat.0.jpg) </br>
+![caption](figures/cat.0.jpg) </br>
 {'class': 'cat', 'confidence': '0.5970718264579773'}
 ---
 ___
@@ -81,16 +81,10 @@ ___
 * <a href= 'https://cs.nju.edu.cn/wujx/paper/CNN.pdf'> Convolutional neural networks</a>
 
 
-# Contributors #
+# Author #
 <div style="display:flex;align-items:center">
 
 <div style="display:flex;align-items:center">
     <div>
-        <h5> <a href='..'> Mr. A </a> </h5> <img src="images/cat.0.jpg" height= 7% width= 7%>
-<div>
-    <h5> <a href='.'> Mr. B </a> </h5> <img src="images/cat.0.jpg" height= 7% width= 7%>
-    
-<div>
-    <h5> <a href='.'> Mm. K </a> </h5> <img src="images/cat.0.jpg" height= 7% width= 7%>
-    
+        <h5> <a href='..'> Mouhamadou Bamba DIOP </a> </h5> <img src="figures/IMG_3383.jpg" height= 7% width= 7%>
 </div>
